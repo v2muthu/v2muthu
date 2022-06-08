@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @v2muthu
+- 👋 Hi, I’m Muthu
 - 👀 I’m interested in Cloud & AI projects.
 - 🌱 I’m currently working on Cloud & AI apps deployed to Redhat Openshift clusters.
 - 💞️ I’m looking to collaborate on AI projects.
